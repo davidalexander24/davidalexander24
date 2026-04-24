@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20David!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 </div>
 
-<br/>
-
 ### 👨‍💻 About Me
 
 - 🌱 4th-semester **Computer Engineering** student at the **University of Indonesia**
