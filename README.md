@@ -6,7 +6,6 @@
 
 - 🌱 4th-semester **Computer Engineering** student at the **University of Indonesia**
 - 🚀 Check out my projects and portfolio at **[dapid.vercel.app](https://dapid.vercel.app)**
-- 📫 Let's connect: **davidalexander2411@gmail.com**
 
 <br/>
 
