@@ -46,14 +46,3 @@
 </div>
 
 <br/>
-
-### 🤝 Connect with Me
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/david-alexander-3a3601325/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo"/>
-  </a>
-  <a href="https://instagram.com/david.alexander24" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-</div>
